@@ -1,4 +1,4 @@
 hello = 'Hello'
-world = 'World'
+world = 'Wordle'
 txt = '{0}... "{1}"?'.format(hello, world)
 print(txt)
